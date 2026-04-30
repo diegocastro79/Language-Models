@@ -1,0 +1,2 @@
+This repository contains jupyter notebooks with examples of training and tuning simple Language Models 
+The notebooks follow closely the excellent series of video lectures by Andrej Karpathy: [makemore](https://www.youtube.com/@AndrejKarpathy/videos/makemore) 
